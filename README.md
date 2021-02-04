@@ -6,8 +6,8 @@ Develop an application for Horse Farms to help manage the business.  Include fea
 
 ---
 #### Objective Level 1 (MVP) (complete):
-[-] # '[-]' Create trainer profiles and horse info pages.
-- [X] Allow for editing of information on trainer and horse pages.
+- [x] Create trainer profiles and horse info pages.
+- [x] Allow for editing of information on trainer and horse pages.
 - [x] Allow for deletion of both trainer and horse pages.
 - [x] Create a relationship between trainer and horse pages.
 
@@ -24,13 +24,13 @@ Develop an application for Horse Farms to help manage the business.  Include fea
 
 ---
 #### Technology used:
-* HTML, CSS, JavaScript
-* Node.js
-* Postgres
-* Express
-* EJS
-* github - used for revision control
-* Heroku - used for deployment.
+- [x] HTML, CSS, JavaScript
+- [x] Node.js
+- [x] Postgres
+- [x] Express
+- [x] EJS
+- [x] github - used for revision control
+- [x] Heroku - used for deployment.
 
 #### Main features:
 * List of features
@@ -61,6 +61,6 @@ Develop an application for Horse Farms to help manage the business.  Include fea
 * As a Farm Manager I would like to be able to maintain a current list of horses and trainers on the farm.
 
 #### Room for improvement:
-1. Add a task list for each trainer with priority value.
-2. Add an activity schedule list for each horse.
-3. New page to display horse activities and trainer tasks with completion date.
+* Add a task list for each trainer with priority value.
+* Add an activity schedule list for each horse.
+* New page to display horse activities and trainer tasks with completion date.
